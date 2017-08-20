@@ -1,0 +1,6 @@
+C:\Projects\enum_type\enum_type\bin\Debug\enum_type.exe.config
+C:\Projects\enum_type\enum_type\bin\Debug\enum_type.exe
+C:\Projects\enum_type\enum_type\bin\Debug\enum_type.pdb
+C:\Projects\enum_type\enum_type\obj\Debug\enum_type.csprojResolveAssemblyReference.cache
+C:\Projects\enum_type\enum_type\obj\Debug\enum_type.exe
+C:\Projects\enum_type\enum_type\obj\Debug\enum_type.pdb
